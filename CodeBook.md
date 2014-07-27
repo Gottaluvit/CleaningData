@@ -1,4 +1,4 @@
-##Codebook for Tidy Dataset
+ ##Codebook for Tidy Dataset
 Data from Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra 
 	and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a 
 	Multiclass Hardware-Friendly Support Vector Machine. International Workshop of 
